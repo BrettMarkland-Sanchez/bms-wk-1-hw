@@ -1,2 +1,1 @@
-# bms-wk-1-hw
-GT Coding Bootcamp Week 1 Homework Assignment
+# GT Coding Bootcamp Wk1 HW: Code Refactor
